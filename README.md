@@ -1,2 +1,2 @@
-# javascript git
+# javascript git HTML ES6
 
